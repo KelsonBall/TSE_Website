@@ -2,25 +2,28 @@ body
 {
     background: #800;
     align-content: center;
-    padding: 10%;
+    padding: 40px;
+}
+
+.content
+{
+    background: #FFF;
+    padding: 7%;
 }
 
 h1
 {
-    text-align: center;
-    color: #FFF;
+    text-align: center;    
 }
 
 h3
 {
-    text-align: center;  
-    color: #FFF;  
+    text-align: center;      
 }
 
 p
 {
-    text-align: center;
-    color: #FFF;
+    text-align: center;    
 }
 
 img
