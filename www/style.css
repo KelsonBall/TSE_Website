@@ -1,0 +1,29 @@
+body
+{
+    background: #800;
+    align-content: center;
+    padding: 10%;
+}
+
+h1
+{
+    text-align: center;
+    color: #FFF;
+}
+
+h3
+{
+    text-align: center;  
+    color: #FFF;  
+}
+
+p
+{
+    text-align: center;
+    color: #FFF;
+}
+
+img
+{
+    align-self: center;
+}
